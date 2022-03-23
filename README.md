@@ -6,11 +6,43 @@ For a demonstration, I applied for my techblog at https://www.ethanvu.dev.
 
 Pre-requites:
 
-- IntelliJ IDEA
-- Selenium UI Testing plugin [here](https://plugins.jetbrains.com/plugin/13691-selenium-ui-testing/docs)
+- Nodejs v16+
+- Selenium v4+
+
+Features
+
+- [x] Test Homepage.
 
 ## Quickstart
 
-updating ...
+Step 1: Install ChromeDriver
+
+```shell
+make setup
+```
+
+Step 2: Install Nodejs dependencies
+
+```shell
+yarn
+```
+
+Step 3: Run Testing UI
+
+```shell
+make test
+
+# Test with coverage
+make test-cov
+```
+
+Step 3: Finish
+
+[Test result](selenium-automation-ui.png)
+
+## Reference
+
+- All Chrome Driver versions here: https://chromedriver.storage.googleapis.com/index.html
+- Selenium Docs: https://www.selenium.dev/documentation/overview/
 
 
