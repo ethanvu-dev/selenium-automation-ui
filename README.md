@@ -2,7 +2,7 @@
 
 This project is a sample to implement Selenium UI Automation Testing.
 
-For a demonstration, I applied for my techblog at https://ethanvu.dev.
+For a demonstration, I applied for my techblog at https://www.ethanvu.dev.
 
 Pre-requites:
 
